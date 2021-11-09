@@ -12,3 +12,16 @@ This is an example of [conventional commits standard](https://www.conventionalco
 - Can calculate and generate automatically the next version and CHANGELOG.md.
 
 - There are many [open source tools](https://www.conventionalcommits.org/en/about/) to helps us such as lints, changelogs generators or next version calculators already available.
+
+## Main commands
+
+Release with:
+
+```bash
+npx standard-version run release
+´´´
+Release candidate with:
+
+```bash
+npx standard-version run --prerelease RC
+´´´
