@@ -2,6 +2,19 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.1.0-RC.0](https://github.com/DavidNowakowski/conventional-commits-standard-version/compare/v2.0.0...v2.1.0-RC.0) (2021-11-09)
+
+
+### Features
+
+* **README:** Added main commands ([e63423d](https://github.com/DavidNowakowski/conventional-commits-standard-version/commit/e63423dd88ffe1dab0657917d36e4ed27f3ec748))
+
+
+### Bug Fixes
+
+* **README:** Main commands samples ([45d8b9e](https://github.com/DavidNowakowski/conventional-commits-standard-version/commit/45d8b9e5aa5edbccd0a496af4e0ec48a1600e6bf))
+* **README:** Main commands samples again ([4fbd5f7](https://github.com/DavidNowakowski/conventional-commits-standard-version/commit/4fbd5f773d8fa51c3a139132d64b0086da3c804e))
+
 ## [2.0.0](https://github.com/DavidNowakowski/conventional-commits-standard-version/compare/v2.0.0-RC.0...v2.0.0) (2021-11-09)
 
 ## [2.0.0-RC.0](https://github.com/DavidNowakowski/conventional-commits-standard-version/compare/v1.2.0...v2.0.0-RC.0) (2021-11-09)
