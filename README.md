@@ -21,7 +21,7 @@ Release with:
 
 npx standard-version run release
 
-´´´
+```
 
 Release candidate with:
 
@@ -29,4 +29,4 @@ Release candidate with:
 
 npx standard-version run --prerelease RC
 
-´´´
+```
