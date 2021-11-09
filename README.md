@@ -18,10 +18,15 @@ This is an example of [conventional commits standard](https://www.conventionalco
 Release with:
 
 ```bash
+
 npx standard-version run release
+
 ´´´
+
 Release candidate with:
 
 ```bash
+
 npx standard-version run --prerelease RC
+
 ´´´
