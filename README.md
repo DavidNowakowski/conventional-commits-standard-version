@@ -35,6 +35,6 @@ Dry run (Dont commit):
 
 ```bash
 
-npx standard-version run --dry-run
+npx standard-version run release --dry-run
 
 ```
